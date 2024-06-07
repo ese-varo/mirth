@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+gem 'rack', '~> 3.0', '>= 3.0.11'
+gem 'puma'
+gem 'sqlite3', '~> 1.4'
+gem 'activerecord'
+gem 'actionpack'
+gem 'actionview'
